@@ -48,10 +48,11 @@ To be added
 ## 🤝 Citation
 
 ### If you use this work, please cite:
-
+```
 @article{neto2025balancing,
   title={Balancing Beyond Discrete Categories: Continuous Demographic Labels for Fair Face Recognition},
   author={Neto, Pedro C and Damer, Naser and Cardoso, Jaime S and Sequeira, Ana F},
   journal={arXiv preprint arXiv:2506.01532},
   year={2025}
 }
+```
