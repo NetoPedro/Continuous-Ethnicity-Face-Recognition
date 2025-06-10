@@ -3,7 +3,7 @@
 📄 **Paper:** [arXiv:2506.01532](https://arxiv.org/abs/2506.01532)  
 🧑‍🔬 **Authors:** Pedro C. Neto, Naser Damer, Jaime S. Cardoso, Ana F. Sequeira
 📅 **Published:** 2025  
-📦 **Data:** [Hugging Face Paper Collection](https://huggingface.co/collections/netopedro/continuous-ethnicity-face-recognition-683d775e507954149965e5b6) [Hugging Face Data](https://huggingface.co/datasets/netopedro/Continuous-Ethnicity-Face-Recognition/tree/main)
+
 
 ---
 
