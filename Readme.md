@@ -39,6 +39,9 @@ All datasets (including continuous demographic annotations) are hosted on Huggin
 
 📂 Hugging Face Collection → [Hugging Face Dataset Collection](https://huggingface.co/collections/netopedro/continuous-ethnicity-face-recognition-683d775e507954149965e5b6)
 
+## 🚀 Training
+
+To be added
 
 ## 🤝 Citation
 
